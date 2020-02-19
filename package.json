@@ -1,0 +1,25 @@
+{
+  "name": "pvtools",
+  "version": "1.0.0",
+  "description": "pvtools is a package created during my final degree project in Rey Juan Carlos Universidad, Madrid that contains all the tools you need to deal with Solar energy, and PV power",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PVtools"
+  },
+  "keywords": [
+    "PV",
+    "Solar",
+    "geography",
+    "coordonates",
+    "pvpower",
+    "energy",
+    "slope",
+    "inclination"
+  ],
+  "author": "Rayene Hamada",
+  "license": "MIT"
+}
